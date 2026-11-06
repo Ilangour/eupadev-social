@@ -1,0 +1,11 @@
+Un outil bricolé avec une IA, ça a l'air fini. Jusqu'au jour où il faut le sauvegarder, le sécuriser ou le maintenir.
+
+EupaDev, c'est une usine à outils installée chez toi : tu décris ton besoin, des agents IA le construisent et le testent, et deux humains valident avant la mise en ligne.
+
+Bon à savoir : pendant la construction, le travail des agents passe par le fournisseur d'IA, sous le compte de ton entreprise. Le projet est open source et encore en préversion, pas prêt pour la production.
+
+Lien en bio.
+
+#ia #opensource #autohebergement #nocode #eupadev
+
+Voix : corpus SIWIS (CC-BY 4.0).

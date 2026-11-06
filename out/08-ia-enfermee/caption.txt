@@ -1,0 +1,7 @@
+Chez EupaDev, chaque agent travaille dans une boîte jetable. Il n'a que ce qu'il faut pour sa tâche.
+
+EupaDev est open source et en préversion : pas encore prêt pour la production. Lien en bio.
+
+#ia #opensource #autohebergement #eupadev
+
+Voix : corpus SIWIS (CC-BY 4.0).

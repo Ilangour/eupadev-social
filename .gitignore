@@ -1,0 +1,5 @@
+node_modules/
+.tts/
+voices/
+out/mascottes/
+out/*/frames/

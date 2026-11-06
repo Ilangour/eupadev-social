@@ -1,0 +1,7 @@
+La règle des quatre yeux : la personne qui demande une appli ne peut pas valider sa mise en ligne. Une exception configurable existe pour les labos à une seule personne, et chaque usage est tracé.
+
+EupaDev est open source et en préversion : pas encore prêt pour la production. Lien en bio.
+
+#ia #opensource #autohebergement #eupadev
+
+Voix : corpus SIWIS (CC-BY 4.0).

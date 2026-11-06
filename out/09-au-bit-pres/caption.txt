@@ -1,0 +1,7 @@
+Avec EupaDev, ce qui passe en production est exactement ce qui a été vérifié. Pas une copie reconstruite.
+
+EupaDev est open source et en préversion : pas encore prêt pour la production. Lien en bio.
+
+#ia #opensource #autohebergement #eupadev
+
+Voix : corpus SIWIS (CC-BY 4.0).

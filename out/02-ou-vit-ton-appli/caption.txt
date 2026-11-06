@@ -1,0 +1,11 @@
+Une appli créée par IA vit souvent chez quelqu'un d'autre. Avec EupaDev, tu décris ton appli avec tes mots, et elle tourne chez toi.
+
+Pas d'abonnement à EupaDev : le projet est open source. Tu paies seulement l'IA que tu utilises, avec ton propre compte.
+
+Bon à savoir : EupaDev est en préversion. L'installation reste technique, demande une machine solide, et le projet n'est pas encore prêt pour la production. Pendant la construction, le travail des agents passe par le fournisseur d'IA.
+
+Lien en bio.
+
+#ia #opensource #autohebergement #nocode #eupadev
+
+Voix : corpus SIWIS (CC-BY 4.0).

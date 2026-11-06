@@ -1,0 +1,7 @@
+Au 6e siècle avant notre ère, sur l'île de Samos, Eupalinos fait creuser un tunnel de plus d'un kilomètre pour amener l'eau. C'est de lui que vient le nom EupaDev.
+
+EupaDev est open source et en préversion : pas encore prêt pour la production. Lien en bio.
+
+#ia #opensource #autohebergement #eupadev
+
+Voix : corpus SIWIS (CC-BY 4.0).

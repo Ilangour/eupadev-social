@@ -1,0 +1,577 @@
+[
+  {
+    "id": "01-outil-bricole",
+    "caption": "Un outil bricolé avec une IA, ça a l'air fini. Jusqu'au jour où il faut le sauvegarder, le sécuriser ou le maintenir.\n\nEupaDev, c'est une usine à outils installée chez toi : tu décris ton besoin, des agents IA le construisent et le testent, et deux humains valident avant la mise en ligne.\n\nBon à savoir : pendant la construction, le travail des agents passe par le fournisseur d'IA, sous le compte de ton entreprise. Le projet est open source et encore en préversion, pas prêt pour la production.\n\nLien en bio.\n\n#ia #opensource #autohebergement #nocode #eupadev",
+    "slides": [
+      {
+        "art": "ask",
+        "title": "Ton équipe a besoin d’un outil. Aucun développeur n’est dispo."
+      },
+      {
+        "art": "laptop",
+        "title": "Alors quelqu’un le fabrique avec une IA.",
+        "body": "En une après-midi, ça a l’air fini."
+      },
+      {
+        "art": "broken",
+        "title": "Mais ce n’est pas un vrai outil.",
+        "body": "Pas de sauvegarde. Pas de vraie connexion. Personne pour s’en occuper."
+      },
+      {
+        "art": "robots",
+        "title": "EupaDev le construit proprement.",
+        "body": "Tu décris ton besoin avec tes mots. Des agents IA fabriquent l’outil et le testent."
+      },
+      {
+        "art": "gates",
+        "title": "Deux humains valident avant la mise en ligne.",
+        "body": "L’IA ne publie jamais rien toute seule."
+      },
+      {
+        "art": "home",
+        "title": "Tes outils restent chez toi.",
+        "body": "Sur tes serveurs, avec leurs données. Open source, encore en préversion."
+      }
+    ],
+    "ig": "carousel"
+  },
+  {
+    "id": "02-ou-vit-ton-appli",
+    "caption": "Une appli créée par IA vit souvent chez quelqu'un d'autre. Avec EupaDev, tu décris ton appli avec tes mots, et elle tourne chez toi.\n\nPas d'abonnement à EupaDev : le projet est open source. Tu paies seulement l'IA que tu utilises, avec ton propre compte.\n\nBon à savoir : EupaDev est en préversion. L'installation reste technique, demande une machine solide, et le projet n'est pas encore prêt pour la production. Pendant la construction, le travail des agents passe par le fournisseur d'IA.\n\nLien en bio.\n\n#ia #opensource #autohebergement #nocode #eupadev",
+    "slides": [
+      {
+        "art": "ask",
+        "title": "Tu crées une appli avec une IA. Mais où vit-elle vraiment ?"
+      },
+      {
+        "art": "cloud",
+        "title": "Souvent, chez quelqu’un d’autre.",
+        "body": "Ton appli et ses données sont chez le fournisseur. Et il faut souvent un abonnement."
+      },
+      {
+        "art": "house",
+        "title": "EupaDev fait l’inverse.",
+        "body": "Tu décris ton appli avec tes mots. Elle tourne sur ta machine ou tes serveurs."
+      },
+      {
+        "art": "nosub",
+        "title": "Pas d’abonnement à EupaDev.",
+        "body": "C’est open source. Tu paies seulement l’IA que tu utilises."
+      },
+      {
+        "art": "gates",
+        "title": "Et rien ne sort sans validation humaine.",
+        "body": "L’IA ne publie jamais rien toute seule."
+      },
+      {
+        "art": "home",
+        "title": "Envoie ça à ton collègue qui veut tout automatiser.",
+        "body": "EupaDev est encore en préversion."
+      }
+    ],
+    "reel": [
+      {
+        "art": "mascot",
+        "title": "Ton appli créée par IA vit où ?",
+        "d": 2
+      },
+      {
+        "art": "cloud",
+        "title": "Souvent, chez quelqu’un d’autre.",
+        "d": 2.4
+      },
+      {
+        "art": "house",
+        "title": "Avec EupaDev, elle vit chez toi.",
+        "d": 2.6
+      },
+      {
+        "art": "nosub",
+        "title": "Pas d’abonnement. Open source.",
+        "body": "Tu paies seulement l’IA utilisée.",
+        "d": 3
+      },
+      {
+        "art": "home",
+        "title": "Envoie ça à ton collègue qui veut tout automatiser.",
+        "body": "Encore en préversion.",
+        "d": 3.4
+      }
+    ],
+    "ig": "reel"
+  },
+  {
+    "id": "03-je-suis-eupa",
+    "ig": "reel",
+    "theme": "cyan",
+    "caption": "Enchanté, moi c'est Eupa. Je t'explique comment on fabrique une appli sans que tu touches au code.",
+    "slides": [
+      {
+        "art": "mascot",
+        "title": "Je suis un chat. Et je fabrique des applis.",
+        "mood": "happy"
+      },
+      {
+        "layout": "chat",
+        "messages": [
+          [
+            "toi",
+            "Il me faut une appli pour suivre notre matériel."
+          ],
+          [
+            "eupa",
+            "Raconte-moi. Je te fais une maquette."
+          ]
+        ]
+      },
+      {
+        "layout": "chat",
+        "messages": [
+          [
+            "toi",
+            "Parfait, c’est exactement ça !"
+          ],
+          [
+            "eupa",
+            "Mon équipe s’occupe du reste."
+          ]
+        ]
+      },
+      {
+        "art": "gates",
+        "title": "Puis deux humains valident.",
+        "body": "Rien ne sort sans eux."
+      },
+      {
+        "art": "home",
+        "title": "Moi, c’est Eupa.",
+        "body": "Suis-moi pour voir comment on construit ça."
+      }
+    ]
+  },
+  {
+    "id": "04-equipe-de-chats",
+    "ig": "carousel",
+    "theme": "violet",
+    "caption": "Une IA qui fait tout toute seule, c'est tentant. Mais une équipe où chacun a son métier, c'est bien plus fiable.",
+    "slides": [
+      {
+        "art": "ask",
+        "title": "Une seule IA pour tout faire ? Très mauvaise idée."
+      },
+      {
+        "title": "Chez EupaDev, chacun a un seul métier.",
+        "team": [
+          [
+            "clipboard",
+            "Écoute"
+          ],
+          [
+            "magnifier",
+            "Teste"
+          ],
+          [
+            "helmet",
+            "Code"
+          ]
+        ]
+      },
+      {
+        "art": "mascot",
+        "title": "Le premier t’écoute.",
+        "body": "Il construit une maquette avec toi.",
+        "gear": "clipboard",
+        "mood": "happy"
+      },
+      {
+        "art": "mascot",
+        "title": "Le deuxième écrit les tests.",
+        "body": "Sans jamais lire le code.",
+        "gear": "magnifier",
+        "mood": "happy"
+      },
+      {
+        "art": "mascot",
+        "title": "Le troisième écrit le code.",
+        "body": "Il peut lire les tests, pas les changer.",
+        "gear": "helmet",
+        "mood": "happy"
+      },
+      {
+        "art": "mascot",
+        "title": "Deux autres relisent.",
+        "body": "Sécurité et qualité. Ils signalent, ils ne touchent à rien.",
+        "gear": "glasses",
+        "mood": "happy"
+      },
+      {
+        "art": "home",
+        "title": "Et un chef d’orchestre décide de la suite.",
+        "body": "Jamais les agents eux-mêmes."
+      }
+    ]
+  },
+  {
+    "id": "05-cinq-interdits",
+    "ig": "carousel",
+    "theme": "pink",
+    "caption": "Le plus important dans une IA qui code, c'est ce qu'elle n'a pas le droit de faire.",
+    "slides": [
+      {
+        "layout": "big",
+        "big": "5",
+        "title": "choses que l’IA n’a pas le droit de faire ici.",
+        "mood": "puzzled"
+      },
+      {
+        "layout": "list",
+        "title": "Interdit à l’IA :",
+        "items": [
+          "Mettre une appli en ligne",
+          "Changer ses propres règles",
+          "Modifier un test pour le réussir"
+        ]
+      },
+      {
+        "layout": "list",
+        "title": "Interdit aussi :",
+        "items": [
+          "Ouvrir une nouvelle connexion réseau",
+          "Décider de son budget"
+        ]
+      },
+      {
+        "art": "cage",
+        "title": "Ce n’est pas une simple consigne.",
+        "body": "Si elle essaie, le système refuse."
+      },
+      {
+        "art": "home",
+        "title": "Envoie ça à quelqu’un qui a peur de l’IA."
+      }
+    ]
+  },
+  {
+    "id": "06-vrai-ou-faux",
+    "ig": "reel",
+    "theme": "amber",
+    "caption": "Trois questions pour comprendre comment une appli passe en ligne avec EupaDev. Ton score en commentaire ?",
+    "slides": [
+      {
+        "layout": "quiz",
+        "art": "line",
+        "title": "L’IA peut mettre ton appli en ligne toute seule.",
+        "mood": "puzzled"
+      },
+      {
+        "layout": "quiz",
+        "art": "line",
+        "title": "L’IA peut mettre ton appli en ligne toute seule.",
+        "mood": "happy",
+        "answer": "faux",
+        "body": "Il faut des validations humaines."
+      },
+      {
+        "layout": "quiz",
+        "art": "line",
+        "title": "Tu peux valider ta propre appli.",
+        "mood": "puzzled"
+      },
+      {
+        "layout": "quiz",
+        "art": "line",
+        "title": "Tu peux valider ta propre appli.",
+        "mood": "happy",
+        "answer": "faux",
+        "body": "Une autre personne doit le faire."
+      },
+      {
+        "layout": "quiz",
+        "art": "line",
+        "title": "Ce qui est testé est ce qui part en ligne.",
+        "mood": "puzzled"
+      },
+      {
+        "layout": "quiz",
+        "art": "line",
+        "title": "Ce qui est testé est ce qui part en ligne.",
+        "mood": "happy",
+        "answer": "vrai",
+        "body": "Rien n’est reconstruit entre les deux."
+      },
+      {
+        "art": "home",
+        "title": "Tu as eu 3 sur 3 ?",
+        "body": "Dis-le en commentaire."
+      }
+    ]
+  },
+  {
+    "id": "07-copie-corrigee",
+    "ig": "carousel",
+    "theme": "cyan",
+    "caption": "Quand une IA écrit le code et ses propres tests, elle peut se tromper deux fois de la même façon. Alors on sépare les rôles.",
+    "slides": [
+      {
+        "art": "ask",
+        "title": "Et si l’IA trichait à ses propres tests ?"
+      },
+      {
+        "art": "copy",
+        "title": "C’est comme corriger sa propre copie.",
+        "body": "On laisse passer ses propres erreurs."
+      },
+      {
+        "art": "mascot",
+        "title": "Un agent écrit les tests sans voir le code.",
+        "gear": "magnifier",
+        "mood": "happy"
+      },
+      {
+        "art": "mascot",
+        "title": "Un autre écrit le code.",
+        "body": "Il voit les tests, mais il ne peut pas les modifier.",
+        "gear": "helmet",
+        "mood": "happy"
+      },
+      {
+        "art": "home",
+        "title": "Ils n’ont pas les mêmes angles morts.",
+        "body": "Enregistre ce post pour ta prochaine appli."
+      }
+    ]
+  },
+  {
+    "id": "08-ia-enfermee",
+    "ig": "reel",
+    "theme": "violet",
+    "caption": "Chez EupaDev, chaque agent travaille dans une boîte jetable. Il n'a que ce qu'il faut pour sa tâche.",
+    "slides": [
+      {
+        "art": "cage",
+        "title": "On enferme nos IA. Exprès."
+      },
+      {
+        "art": "robots",
+        "title": "Chaque tâche a sa boîte jetable.",
+        "body": "À la fin, la boîte est supprimée."
+      },
+      {
+        "layout": "list",
+        "tick": true,
+        "title": "Dans la boîte :",
+        "items": [
+          "Aucun accès à la machine",
+          "Aucune clé vers le dépôt de code",
+          "Internet limité à une liste"
+        ]
+      },
+      {
+        "art": "home",
+        "title": "Elle travaille. Puis elle disparaît."
+      }
+    ]
+  },
+  {
+    "id": "09-au-bit-pres",
+    "ig": "carousel",
+    "theme": "amber",
+    "caption": "Avec EupaDev, ce qui passe en production est exactement ce qui a été vérifié. Pas une copie reconstruite.",
+    "slides": [
+      {
+        "art": "seal",
+        "title": "Ce que tu testes part en ligne. Au bit près."
+      },
+      {
+        "art": "line",
+        "title": "Reconstruire une appli peut la changer.",
+        "body": "Même un tout petit peu.",
+        "mood": "sad"
+      },
+      {
+        "art": "seal",
+        "title": "Ici, elle est construite une seule fois.",
+        "body": "Elle reçoit une empreinte unique, comme un sceau."
+      },
+      {
+        "art": "gates",
+        "title": "L’humain valide cette empreinte.",
+        "body": "Pas une idée de l’appli."
+      },
+      {
+        "art": "home",
+        "title": "La production reçoit exactement la même."
+      }
+    ]
+  },
+  {
+    "id": "10-pas-ta-propre-appli",
+    "ig": "reel",
+    "theme": "pink",
+    "caption": "La règle des quatre yeux : la personne qui demande une appli ne peut pas valider sa mise en ligne. Une exception configurable existe pour les labos à une seule personne, et chaque usage est tracé.",
+    "slides": [
+      {
+        "art": "gates",
+        "title": "Non, tu ne peux pas valider ta propre appli."
+      },
+      {
+        "layout": "chat",
+        "messages": [
+          [
+            "toi",
+            "C’est mon appli, je la valide !"
+          ],
+          [
+            "eupa",
+            "Refusé. Il faut une autre personne."
+          ]
+        ]
+      },
+      {
+        "layout": "chat",
+        "messages": [
+          [
+            "toi",
+            "Même si je suis admin ?"
+          ],
+          [
+            "eupa",
+            "Même si tu es admin."
+          ]
+        ]
+      },
+      {
+        "art": "cage",
+        "title": "Le moteur refuse. La base de données aussi.",
+        "body": "Deux verrous pour une seule règle."
+      },
+      {
+        "art": "home",
+        "title": "Envoie ça à ton admin préféré."
+      }
+    ]
+  },
+  {
+    "id": "11-tunnel-de-samos",
+    "ig": "carousel",
+    "theme": "violet",
+    "caption": "Au 6e siècle avant notre ère, sur l'île de Samos, Eupalinos fait creuser un tunnel de plus d'un kilomètre pour amener l'eau. C'est de lui que vient le nom EupaDev.",
+    "slides": [
+      {
+        "art": "tunnel",
+        "title": "Notre nom vient d’un tunnel de 2 500 ans."
+      },
+      {
+        "art": "tunnel",
+        "title": "Eupalinos a percé une montagne à Samos.",
+        "body": "Plus d’un kilomètre, pour amener l’eau."
+      },
+      {
+        "art": "tunnel",
+        "title": "Il a fait creuser des deux côtés à la fois.",
+        "body": "Et les équipes se sont rejointes."
+      },
+      {
+        "art": "line",
+        "title": "Pas de chance. Du calcul.",
+        "body": "C’est l’esprit qu’on veut pour le logiciel."
+      },
+      {
+        "art": "home",
+        "title": "EupaDev, ça vient de là.",
+        "body": "Et Eupa, c’est moi."
+      }
+    ]
+  },
+  {
+    "id": "12-trois-fois-le-meme",
+    "ig": "reel",
+    "theme": "cyan",
+    "caption": "Dans beaucoup d'entreprises, plusieurs équipes construisent le même outil sans le savoir. EupaDev consulte son registre avant de commencer.",
+    "slides": [
+      {
+        "art": "dup",
+        "title": "Trois services. Trois fois le même outil."
+      },
+      {
+        "art": "dup",
+        "title": "Chacun a fait le sien dans son coin.",
+        "mood": "sad"
+      },
+      {
+        "art": "copy",
+        "title": "EupaDev garde un registre de tous les outils.",
+        "body": "Il le consulte avant de commencer."
+      },
+      {
+        "art": "home",
+        "title": "S’il y a un doublon, un humain est prévenu.",
+        "body": "Envoie ça à ton service informatique."
+      }
+    ]
+  },
+  {
+    "id": "13-budget",
+    "ig": "carousel",
+    "theme": "amber",
+    "caption": "Une IA qui tourne en rond, ça peut coûter cher. Dans EupaDev, des limites arrêtent le travail et préviennent un humain.",
+    "slides": [
+      {
+        "art": "gauge",
+        "title": "Et si l’IA dépensait sans jamais s’arrêter ?",
+        "mood": "puzzled"
+      },
+      {
+        "layout": "list",
+        "tick": true,
+        "title": "Trois limites :",
+        "items": [
+          "Un budget par étape",
+          "Un nombre de tours maximum",
+          "Un temps de travail maximum"
+        ]
+      },
+      {
+        "art": "gauge",
+        "title": "Si elle tourne en rond, elle s’arrête.",
+        "body": "Et un humain est prévenu."
+      },
+      {
+        "art": "home",
+        "title": "L’agent ne décide pas de continuer.",
+        "body": "C’est l’orchestrateur qui décide."
+      }
+    ]
+  },
+  {
+    "id": "14-pas-encore",
+    "ig": "reel",
+    "theme": "pink",
+    "caption": "On préfère te dire ce qui manque. EupaDev se construit en public, et le code est ouvert à tous.",
+    "slides": [
+      {
+        "art": "broken",
+        "title": "Ce qui ne marche pas encore chez nous."
+      },
+      {
+        "layout": "list",
+        "title": "Pas encore là :",
+        "items": [
+          "L’installation en une commande",
+          "Le tableau de bord",
+          "Une vraie appli construite de bout en bout par l’IA"
+        ]
+      },
+      {
+        "art": "robots",
+        "title": "En labo, le cycle complet tourne.",
+        "body": "Avec un agent scripté, jusqu’à la production."
+      },
+      {
+        "art": "home",
+        "title": "On construit ça en public.",
+        "body": "Le code est ouvert. Suis le projet."
+      }
+    ]
+  }
+]

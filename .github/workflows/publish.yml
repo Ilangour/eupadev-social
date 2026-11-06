@@ -1,0 +1,24 @@
+name: Publish
+on:
+  schedule:
+    - cron: '30 17 * * *' # 18:30 Paris in winter; change to 16:30 UTC in summer
+  workflow_dispatch:
+    inputs:
+      post:
+        description: Post id (empty = today's entry in calendar.json)
+        required: false
+permissions:
+  contents: read
+concurrency:
+  group: publish
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - run: node publish.mjs "$POST"
+        env:
+          POST: ${{ inputs.post }}
+          META_TOKEN: ${{ secrets.META_TOKEN }}
