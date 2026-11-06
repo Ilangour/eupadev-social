@@ -2,7 +2,7 @@
 // With no post id, takes today's entry (Paris time) in calendar.json. The token comes from META_TOKEN.
 import { readFileSync, readdirSync } from 'node:fs';
 
-const BASE = 'https://eupadev-hq.github.io/social/out';
+const BASE = 'https://ilangour.github.io/eupadev-social/out';
 const API = 'https://graph.facebook.com/v26.0';
 const dry = process.argv.includes('--dry');
 const today = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Paris' }).format(new Date());
