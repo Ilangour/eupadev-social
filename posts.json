@@ -573,5 +573,15 @@
         "body": "Le code est ouvert. Suis le projet."
       }
     ]
+  },
+  {
+    "id": "en-v1-apartment",
+    "lang": "en",
+    "ig": "reel"
+  },
+  {
+    "id": "en-v2-salon",
+    "lang": "en",
+    "ig": "reel"
   }
 ]

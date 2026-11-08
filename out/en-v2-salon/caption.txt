@@ -1,0 +1,9 @@
+From "I want an app for my recipes" to a real app, without writing a line of code. 🍝
+
+How EupaDev works: you describe your need, try a clickable mock-up, then the plan is frozen, no surprise changes. AI agents write the tests and the code, two others review everything, and anything wrong goes back to them. You test a preview, and nothing goes live until a human says yes.
+
+Free and open source, runs on your own machines. Still in pre-release, not production-ready yet: come build it with us. Link in bio ⭐
+
+Animated with AI. Voices: OmniVoice (CC BY-NC 4.0).
+
+#opensource #selfhosted #nocode #aiagents #buildinpublic #eupadev

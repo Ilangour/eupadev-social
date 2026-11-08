@@ -1,0 +1,9 @@
+Everyone wants their own app. Nobody wants another monthly bill. 🐱
+
+EupaDev is a free, open-source app factory that runs on your own machines. You describe what you need in plain words, a small team of AI agents plans it, writes the tests, writes the code and reviews each other's work. Your apps and your data stay home. The AI itself is paid per use, with your own key, and the agents' work goes through that AI provider while they build.
+
+Honest note: it's still in pre-release. Not production-ready yet, and we'd love some help. Developers, testers, curious people: link in bio, star us on GitHub ⭐
+
+Animated with AI. Voices: OmniVoice (CC BY-NC 4.0).
+
+#opensource #selfhosted #nocode #aiagents #buildinpublic #eupadev

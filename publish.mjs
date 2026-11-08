@@ -46,15 +46,22 @@ async function ready(container) {
   throw new Error(`Conteneur ${container} : délai dépassé`);
 }
 
-const ig = (await call('me/assigned_instagram_accounts')).data[0].id;
+// One token, several accounts: English posts go to @eupadev, the rest to @eupadev.fr.
+const username = post.lang === 'en' ? 'eupadev' : 'eupadev.fr';
+let ig;
+for (const { id: a } of (await call('me/assigned_instagram_accounts')).data)
+  if ((await call(`${a}?fields=username`)).username === username) ig = a;
+if (!ig) throw new Error(`Compte @${username} non attribué au robot de publication`);
+console.log(`Compte : @${username}`);
 
 // A re-run must never post twice: skip if a recent post already has this caption.
 const recent = (await call(`${ig}/media?fields=caption&limit=10`)).data;
 if (recent.some(m => m.caption?.trim() === caption.trim())) { console.log('Déjà publié, rien à faire.'); process.exit(); }
 
+// is_ai_generated shows Instagram's "AI info" label; it can only be set at creation, never added later.
 let container;
 if (reel) {
-  ({ id: container } = await call(`${ig}/media`, { media_type: 'REELS', video_url: video, caption, share_to_feed: 'true' }));
+  ({ id: container } = await call(`${ig}/media`, { media_type: 'REELS', video_url: video, caption, share_to_feed: 'true', is_ai_generated: 'true' }));
 } else {
   const children = [];
   for (const image_url of images) {
@@ -62,7 +69,7 @@ if (reel) {
     await ready(child);
     children.push(child);
   }
-  ({ id: container } = await call(`${ig}/media`, { media_type: 'CAROUSEL', children: children.join(','), caption }));
+  ({ id: container } = await call(`${ig}/media`, { media_type: 'CAROUSEL', children: children.join(','), caption, is_ai_generated: 'true' }));
 }
 await ready(container);
 const { id: media } = await call(`${ig}/media_publish`, { creation_id: container });
