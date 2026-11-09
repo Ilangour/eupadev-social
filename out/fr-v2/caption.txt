@@ -1,0 +1,9 @@
+De « je veux une appli pour mes recettes » à une vraie appli, sans écrire une ligne de code. 🍝
+
+Comment marche EupaDev : tu décris ton besoin, tu essaies une maquette cliquable, puis le plan est figé, sans changement surprise. Des agents IA écrivent les tests et le code, deux autres vérifient tout, et ce qui ne va pas leur revient. Tu testes une préversion, et rien n'est mis en ligne sans le oui d'un humain.
+
+Gratuit, open source, chez toi. Encore en préversion, pas prêt pour la production : viens le construire avec nous. Lien en bio ⭐
+
+Animé avec l'IA. Voix : OmniVoice (CC BY-NC 4.0).
+
+#opensource #autohebergement #nocode #ia #eupadev

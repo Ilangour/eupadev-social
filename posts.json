@@ -583,5 +583,15 @@
     "id": "en-v2-salon",
     "lang": "en",
     "ig": "reel"
+  },
+  {
+    "id": "fr-v1",
+    "lang": "fr",
+    "ig": "reel"
+  },
+  {
+    "id": "fr-v2",
+    "lang": "fr",
+    "ig": "reel"
   }
 ]

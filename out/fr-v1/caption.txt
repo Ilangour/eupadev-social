@@ -1,0 +1,9 @@
+Tout le monde veut sa propre appli. Personne ne veut un abonnement de plus. 🐱
+
+EupaDev est une usine à applis gratuite et open source, qui tourne sur tes propres machines. Tu décris ton besoin avec tes mots, une petite équipe d'agents IA le planifie, écrit les tests, écrit le code et vérifie le travail des autres. Tes applis et tes données restent chez toi. L'IA reste payante à l'usage, avec ta propre clé, et pendant la construction le travail des agents passe par ce fournisseur d'IA.
+
+Pour être honnête : c'est encore une préversion, pas prête pour la production, et on aimerait beaucoup un coup de main. Développeurs, testeurs, curieux : lien en bio, mets-nous une étoile sur GitHub ⭐
+
+Animé avec l'IA. Voix : OmniVoice (CC BY-NC 4.0).
+
+#opensource #autohebergement #nocode #ia #eupadev
