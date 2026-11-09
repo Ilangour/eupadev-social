@@ -593,5 +593,15 @@
     "id": "fr-v2",
     "lang": "fr",
     "ig": "reel"
+  },
+  {
+    "id": "zh-v1",
+    "lang": "zh",
+    "ig": "reel"
+  },
+  {
+    "id": "zh-v2",
+    "lang": "zh",
+    "ig": "reel"
   }
 ]

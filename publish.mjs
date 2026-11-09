@@ -46,8 +46,8 @@ async function ready(container) {
   throw new Error(`Conteneur ${container} : délai dépassé`);
 }
 
-// One token, several accounts: English posts go to @eupadev, the rest to @eupadev.fr.
-const username = post.lang === 'en' ? 'eupadev' : 'eupadev.fr';
+// One token, several accounts, one per language (French by default).
+const username = { en: 'eupadev', zh: 'eupadev.zh' }[post.lang] ?? 'eupadev.fr';
 let ig;
 for (const { id: a } of (await call('me/assigned_instagram_accounts')).data)
   if ((await call(`${a}?fields=username`)).username === username) ig = a;
