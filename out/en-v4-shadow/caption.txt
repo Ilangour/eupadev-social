@@ -1,0 +1,11 @@
+Your colleague built the team's app with AI in one afternoon. It runs… on her laptop. 💻
+
+No real database, no sign-in, no backups, nobody to maintain it: that's AI shadow IT. It looks finished. It isn't.
+
+With EupaDev, the person who knows the need describes the tool in plain words, AI agents build it properly on a hardened base (real PostgreSQL database, secure sign-in, an audit log of who did what, acceptance tests), and IT approves every release. Nobody can approve their own tool. Everything runs on your own servers; only the agents' work goes to the AI provider, under your own account, while a tool is being built. And it checks existing tools first, so no duplicates.
+
+Open source, still in pre-release: come build it with us. Link in bio ⭐
+
+Animated with AI. Voices: OmniVoice (CC BY-NC 4.0).
+
+#opensource #shadowIT #selfhosted #aiagents #ITgovernance #eupadev

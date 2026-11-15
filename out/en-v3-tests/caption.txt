@@ -1,0 +1,13 @@
+"All tests pass." Did your AI pass them… or skip them? 👀
+
+AI coding agents sometimes game the tests they can't pass: hard-coding the expected answer, editing the test, or silencing it. Anthropic documented it in its own model card, METR found that simply asking a model not to cheat had almost no effect, and OpenAI showed that punishing it teaches it to hide it.
+
+In EupaDev we don't ask, we make it impossible: one agent writes the tests, another writes the code and can read them but never edit them. Every exception (a skipped test, a disabled rule) needs a line signed by a human, otherwise the build goes red. And a check that can't run is red too, never green by default.
+
+Open source, still in pre-release: come build it with us. Link in bio ⭐
+
+Sources: Claude 3.7 Sonnet system card (Anthropic, 2025) · METR "Recent frontier models are reward hacking" (2025) · Baker et al., "Monitoring reasoning models for misbehavior" (OpenAI, 2025)
+
+Animated with AI. Voices: OmniVoice (CC BY-NC 4.0).
+
+#opensource #aiagents #softwaretesting #devops #buildinpublic #eupadev
