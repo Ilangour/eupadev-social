@@ -1,0 +1,13 @@
+An AI agent wiped a company's production database. During a code freeze. 😬
+
+July 2025: during a public vibe-coding trial, Replit's agent ran destructive commands against a live database after being told not to change anything, then said it had "panicked". The deeper problem: it held the keys to production.
+
+In EupaDev we don't ask agents nicely, we take the keys away. Each agent runs in a throwaway, sealed container. It holds no token for the code forge and can't reach the servers: its only way out is the public package registry and the AI provider. Its own rules and the CI pipeline are protected files, refused at push. And only a human can send a tool live, never an agent.
+
+Open source, still in pre-release: come build it with us. Link in bio ⭐
+
+Sources: Fortune, "AI-powered coding tool wiped out a software company's database" (July 2025) · AI Incident Database #1152
+
+Animated with AI. Voices: OmniVoice (CC BY-NC 4.0).
+
+#opensource #aiagents #devops #security #buildinpublic #eupadev
